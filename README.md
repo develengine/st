@@ -8,6 +8,7 @@
 
 ## Requirements
 In order to build st you need the Xlib header files.
+By default this build of st requires the [scroll](https://git.suckless.org/scroll/) program.
 
 
 ## Installation
