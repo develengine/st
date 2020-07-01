@@ -1,3 +1,7 @@
+# Jakubs st build
+## Patches
+- anysize
+
 # st - simple terminal
 **st** is a simple terminal emulator for X which sucks less.
 
